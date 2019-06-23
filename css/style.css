@@ -119,9 +119,6 @@ footer ul li {
   header {
     padding: 10px;
   }
-  h3 {
-    font-size: 30px;
-  }
   .logo {
     font-size: 36px;
   }
@@ -130,6 +127,9 @@ footer ul li {
   }
   header nav ul li {
     font-size: 18px;
+  }
+  p{
+    font-size: 2rem;
   }
 }
 
